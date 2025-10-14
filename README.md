@@ -85,5 +85,5 @@ Enhance visuals using Power BI bookmarks  stories.
 
 8. 🙌 Acknowledgments
    Thanks to the open e-commerce dataset community and Power BI for providing powerful visualization tools.
-
-Thanks to the open e-commerce dataset community and Power BI/Tableau for providing powerful visualization tools.
+9. Project overview
+    https://github.com/Nazarin621/Business-sales-E-Commerces-data-dashboard/blob/main/Screenshot%202025-10-14%20170842.png
